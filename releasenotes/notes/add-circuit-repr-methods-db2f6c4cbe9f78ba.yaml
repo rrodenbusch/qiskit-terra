@@ -1,0 +1,5 @@
+---
+upgrade:
+  - |
+    Added repr methods to :class:`~qiskit.circuit.QuantumCircuit`, :class:`~qiskit.circuit.Gate`, and
+     :class:`~qiskit.circuit.QuantumCircuit`
